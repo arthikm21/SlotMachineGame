@@ -2,7 +2,7 @@ Slot Machine Game
 Hey there! Welcome to my simple yet exciting slot machine game implemented in Python.
 
 How to Play
-Deposit Money:
+Deposit Money(user input):
 
 When prompted, enter the amount you want to kickstart the fun with.
 Place Your Bet:
